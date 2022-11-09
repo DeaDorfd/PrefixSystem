@@ -1,0 +1,71 @@
+#Zeigt die Farbe deines Ranges für deinen Namen an.
+Color: true
+
+
+#Aktiviert / Deaktiviert das man nun Fabig schreiben kann. Schreibe 'false' um es zu deaktivieren
+ChatColor: true
+ChatColorPremission: "system.chatcolor"
+
+
+#Chat Format vorne und hinten
+ChatFormatprefix: " &8| "
+ChatFormatsuffix: " &8× &7"
+
+#Tab Format
+TabFormat: " &8× "
+
+
+# Jeweils eine auflistung der Ränge und der dazugehörigen einstellung
+
+Inhaber:
+    LuckPermsName: "Inhaber"
+    TabAnzeige: "&4Inhaber"
+    ChatAnzeige: "&4Inhaber"
+Manager:
+    LuckPermsName: "Manager"
+    TabAnzeige: "&4Manager"
+    ChatAnzeige: "&4Manager"
+Admin:
+    LuckPermsName: "Admin"
+    TabAnzeige: "&4Admin"
+    ChatAnzeige: "&4Administrator"
+Entwickler:
+    LuckPermsName: "Entwickler"
+    TabAnzeige: "&6Entwickler"
+    ChatAnzeige: "&6Entwickler"
+Moderator:
+    LuckPermsName: "Mod"
+    TabAnzeige: "&9Mod"
+    ChatAnzeige: "&9Moderator"
+Content:
+    LuckPermsName: "Content"
+    TabAnzeige: "&bContent"
+    ChatAnzeige: "&bContent"
+Supporter:
+    LuckPermsName: "Sup"
+    TabAnzeige: "&2Sup"
+    ChatAnzeige: "&2Supporter"
+YoutuberPlus:
+    LuckPermsName: "YoutuberPlus"
+    TabAnzeige: "&5YT+"
+    ChatAnzeige: "&5Youtuber+"
+Youtuber:
+    LuckPermsName: "Youtuber"
+    TabAnzeige: "&5YT"
+    ChatAnzeige: "&5Youtuber"
+PremiumPlus:
+    LuckPermsName: "PremiumPlus"
+    TabAnzeige: "&6Premi+"
+    ChatAnzeige: "&6Premium+"
+Legend:
+    LuckPermsName: "Legend"
+    TabAnzeige: "&eLegend"
+    ChatAnzeige: "&eLegend"
+Premium:
+    LuckPermsName: "Premium"
+    TabAnzeige: "&6Premium"
+    ChatAnzeige: "&6Premium"
+Spieler:
+    LuckPermsName: "default"
+    TabAnzeige: "&7Spieler"
+    ChatAnzeige: "&7Spieler"
